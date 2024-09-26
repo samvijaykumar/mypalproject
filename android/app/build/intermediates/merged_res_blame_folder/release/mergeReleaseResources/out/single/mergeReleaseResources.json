@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "com.mypal.app-release-41:/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_happyimojigreen.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_happyimojigreen.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_download.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_download.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_texticon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_texticon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.mypal.app-main-42:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_certificatesimag.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_certificatesimag.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_rightlogo.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_rightlogo.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_47524ab148bb55a458ba55977bf67e6d.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_47524ab148bb55a458ba55977bf67e6d.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_profileicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_profileicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_boringimoji.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_boringimoji.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_chataicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_chataicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.mypal.app-main-42:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-xhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_invoicicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_invoicicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_agreementimag.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_agreementimag.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_instrectionimag1.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_instrectionimag1.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_sadimojired.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_sadimojired.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_doctorscript.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_doctorscript.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_ladki2.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_ladki2.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_goleimag.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_goleimag.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_rightarrowbutton.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_rightarrowbutton.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_chayeicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_chayeicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-xhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_document6icon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_document6icon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_arrowbutton.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_arrowbutton.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.mypal.app-main-42:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_lineimag.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_lineimag.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_megaphone1.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_megaphone1.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_bottomiconball.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_bottomiconball.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_redballicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_redballicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_healthicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_healthicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_dog2image.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_dog2image.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_documenticon2.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_documenticon2.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_injactionicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_injactionicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_plusicon08.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_plusicon08.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_passportimag.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_passportimag.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_pencilicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_pencilicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_blueballicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_blueballicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_homeiconwhite.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_homeiconwhite.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_dogcatimag.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_dogcatimag.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.mypal.app-main-42:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_phoneicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_phoneicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_eyecloseicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_eyecloseicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_docicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_docicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_panjaicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_panjaicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.mypal.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_nodepade.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_nodepade.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_blurimag.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_blurimag.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_document6imag.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_document6imag.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_bigballicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_bigballicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_pupy01.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_pupy01.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.mypal.app-main-42:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.mypal.app-main-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_businessimag.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_businessimag.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_dabaicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_dabaicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_labtestsimag.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_labtestsimag.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_3doticon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_3doticon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-hdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_crosimag.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_crosimag.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_onoffswich.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_onoffswich.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_diliticon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_diliticon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_sendicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_sendicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_bouttomiconheadphone.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_bouttomiconheadphone.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_d30c81006ee44f9ebede962bedca8fd1.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_d30c81006ee44f9ebede962bedca8fd1.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_calandericon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_calandericon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_downicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_downicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_dropdownicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_dropdownicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.mypal.app-main-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.mypal.app-main-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_document4icon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_document4icon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_bottomiconhome.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_bottomiconhome.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.mypal.app-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_eyeopenicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_eyeopenicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-mdpi_src_images_iicon.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-mdpi/src_images_iicon.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.mypal.app-res-36:/drawable-hdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.mypal.app-release-41:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.mypal.app-main-42:/mipmap-xhdpi/ic_launcher.png"
+    }
+]
