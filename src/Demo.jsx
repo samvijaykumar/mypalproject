@@ -6,6 +6,7 @@ const Demo = () => {
     <View>
       <Text>Demo</Text>
       <Text>hello</Text>
+      <Text>vijay</Text>
     </View>
   )
 }
