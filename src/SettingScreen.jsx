@@ -11,12 +11,45 @@ import {
 } from 'react-native';
 import React, {useState} from 'react';
 import {ViewPagerAndroid} from 'react-native';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 const {width, height} = Dimensions.get('window'); // Get device dimensions
 const SettingScreen = ({navigation}) => {
   const [isEnabled, setIsEnabled] = useState(false);
-
+  const token = AsyncStorage.getItem('token');
   const toggleSwitch = () => setIsEnabled(previousState => !previousState);
+const logoutapi= async()=>{
+  try {
+    console.log('Form data:', {
+      // user_name: Name,
+      // email,
+      // phone: phoneNumber,
+      // password, // Adding password to the log for confirmation
+      // country_code: 91,
+      // device_token: 'fytf',
+    });
 
+    var base_path = 'https://demo.sgvproject.in/pet_mypal_app/api/';
+
+    const response = await fetch(base_path + 'logout', {
+      method: 'GET',
+      headers: {
+        'Content-Type': 'application/json',
+        "Authorization": Bearer `${token}`
+      },
+     
+    });
+ 
+    const data = await response.json();
+
+    console.log('API Response:', data);
+  }
+    catch (error) {
+      console.error('Error during API call:', error);
+      // setError('An error occurred. Please try again.');
+    } finally {
+      // setLoading(false); // Stop loading indicator
+    }
+}
   return (
     <View style={{backgroundColor: 'rgba(241, 236, 225, 1)', flex: 1}}>
       <View style={{backgroundColor: 'rgba(255, 255, 255, 1)', height: 80}}>
@@ -254,7 +287,7 @@ const SettingScreen = ({navigation}) => {
         </View>
       </TouchableOpacity>
       {/* // */}
-      <TouchableOpacity>
+      <TouchableOpacity onPress={logoutapi}>
         <View
           style={{
             width: 320,

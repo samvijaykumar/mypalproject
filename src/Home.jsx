@@ -98,6 +98,7 @@ const Home = ({navigation}) => {
           const result=JSON.stringify(value)
           console.log(result);
           await AsyncStorage.setItem('token',result);
+          
           Toast.show({
             type: 'success',
             text1: 'Hello',
